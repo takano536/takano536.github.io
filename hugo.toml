@@ -1,0 +1,17 @@
+baseURL = 'https://takano536.github.io/'
+languageCode = 'ja'
+title = "takano's page"
+theme = "hugo-bearcub"
+copyright = "© takano536"
+
+enableEmoji = true     # emoji を有効
+enableRobotsTXT = true # robots.txt を生成
+
+[markup]
+[markup.highlight]
+lineNos = true
+lineNumbersInTable = false
+noClasses = false
+
+[params]
+madeWith = "Powered by [Hugo](https://gohugo.io/)・Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
