@@ -10,7 +10,7 @@ weight: 1
 
 ## :video_game: ゲーム
 
-- ~~[こおりのぬけみち - Ice Path](/games/ice-path/)~~
+- [こおりのぬけみち - Ice Path](/games/ice-path/)
 
     ポケモンシリーズの「こおりのぬけみち」を再現したゲームです
 
@@ -20,8 +20,8 @@ weight: 1
 
 - ~~[たすけてメール・ふっかつメールコンバータ - SOS to AOK Mail Converter](/tools/pmd-sos2aok-mail-con/)~~
 
-    「たすけてメール」を「ありがとうメール」に変換するツールです
+    「たすけてメール」を「ありがとうメール」に変換するツールを作成したいです
 
 - ~~[ふしぎなメールジェネレータ - Wander Mail Generator](/tools/pmd-wander-mail-gen/)~~
 
-    「ふしぎなメール」を生成するツールです
+    「ふしぎなメール」を生成するツールを作成したいです
