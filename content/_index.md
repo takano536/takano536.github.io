@@ -14,14 +14,4 @@ weight: 1
 
     ポケモンシリーズの「こおりのぬけみち」を再現したゲームです
 
-## :toolbox: ツール
 
-### ポケモン不思議のダンジョン 赤の救助隊・青の救助隊 無印
-
-- ~~[たすけてメール・ふっかつメールコンバータ - SOS to AOK Mail Converter](/tools/pmd-sos2aok-mail-con/)~~
-
-    「たすけてメール」を「ありがとうメール」に変換するツールを作成したいです
-
-- ~~[ふしぎなメールジェネレータ - Wander Mail Generator](/tools/pmd-wander-mail-gen/)~~
-
-    「ふしぎなメール」を生成するツールを作成したいです
