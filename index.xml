@@ -1,7 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>takano's page</title><link>https://takano536.github.io/</link><description>Recent content on takano's page</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© takano536</copyright><atom:link href="https://takano536.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Ice Path</title><link>https://takano536.github.io/games/ice-path/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://takano536.github.io/games/ice-path/</guid><description>&lt;h2 id="こおりのぬけみち"&gt;こおりのぬけみち&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>takano's page</title><link>https://takano536.github.io/</link><description>Recent content on takano's page</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© takano536</copyright><atom:link href="https://takano536.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Ice Path</title><link>https://takano536.github.io/games/ice-path/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://takano536.github.io/games/ice-path/</guid><description>&lt;h2 id="video_game-こおりのぬけみち"&gt;&amp;#x1f3ae; こおりのぬけみち&lt;/h2&gt;
+&lt;p&gt;ステージは自動生成なので無限に遊べます。必ずゴールに到達できます。&lt;/p&gt;
+&lt;h3 id="操作方法"&gt;操作方法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;移動：スワイプ or 矢印キー&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一手戻る：ダブルタップ or &lt;code&gt;Ctrl+Z&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div style="display: flex; justify-content: center; align-items: center;"&gt;
  &lt;iframe src="https://takano536.github.io/ice-path/index.html" width="1024" height="512" frameborder="0"&gt;&lt;/iframe&gt;
-&lt;/div&gt;</description><content:encoded><![CDATA[<h2 id="こおりのぬけみち">こおりのぬけみち</h2>
+&lt;/div&gt;</description><content:encoded><![CDATA[<h2 id="video_game-こおりのぬけみち">&#x1f3ae; こおりのぬけみち</h2>
+<p>ステージは自動生成なので無限に遊べます。必ずゴールに到達できます。</p>
+<h3 id="操作方法">操作方法</h3>
+<ul>
+<li>
+<p>移動：スワイプ or 矢印キー</p>
+</li>
+<li>
+<p>一手戻る：ダブルタップ or <code>Ctrl+Z</code></p>
+</li>
+</ul>
 <div style="display: flex; justify-content: center; align-items: center;">
   <iframe src="/ice-path/index.html" width="1024" height="512" frameborder="0"></iframe>
 </div>
