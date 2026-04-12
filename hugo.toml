@@ -7,6 +7,9 @@ copyright = "© takano536"
 enableEmoji = true     # emoji を有効
 enableRobotsTXT = true # robots.txt を生成
 
+[author]
+name = "Takanori"
+
 [markup]
 [markup.highlight]
 lineNos = true
@@ -15,3 +18,6 @@ noClasses = false
 
 [params]
 madeWith = "Powered by [Hugo](https://gohugo.io/)・Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+[params.author]
+name = "Takanori"
+email = "takanori@example.com"
