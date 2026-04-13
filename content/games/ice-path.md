@@ -15,4 +15,4 @@ type: "page"
 
 * 一手戻る：ダブルタップ or `Ctrl+Z`
 
-{{< game "ice-path" >}}
+{{< ice-path "ice-path" >}}
