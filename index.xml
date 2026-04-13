@@ -9,11 +9,14 @@
 &lt;p&gt;一手戻る：ダブルタップ or &lt;code&gt;Ctrl+Z&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div style="text-align:center;"&gt;
+&lt;div style="max-width:720px; margin:auto; overflow:hidden;"&gt;
+ &lt;div style="position:relative; width:100%; aspect-ratio:1/1; overflow:hidden;"&gt;
  &lt;iframe
  src="https://takano536.github.io/ice-path/index.html"
- style="width:720px; height:720px; border:0; display:block; margin:auto;"
+ scrolling="no"
+ style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; overflow:hidden;"
  &gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 &lt;/div&gt;</description><content:encoded><![CDATA[<h2 id="video_game-こおりのぬけみち">&#x1f3ae; こおりのぬけみち</h2>
 <p>ステージは自動生成なので無限に遊べます。必ずゴールに到達できます。</p>
 <h3 id="操作方法">操作方法</h3>
@@ -25,11 +28,14 @@
 <p>一手戻る：ダブルタップ or <code>Ctrl+Z</code></p>
 </li>
 </ul>
-<div style="text-align:center;">
-  <iframe
-    src="/ice-path/index.html"
-    style="width:720px; height:720px; border:0; display:block; margin:auto;"
-  ></iframe>
+<div style="max-width:720px; margin:auto; overflow:hidden;">
+  <div style="position:relative; width:100%; aspect-ratio:1/1; overflow:hidden;">
+    <iframe
+      src="/ice-path/index.html"
+      scrolling="no"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; overflow:hidden;"
+    ></iframe>
+  </div>
 </div>
 ]]></content:encoded></item><item><title>Klocki</title><link>https://takano536.github.io/games/klocki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>takanori@example.com (Takanori)</author><guid>https://takano536.github.io/games/klocki/</guid><description>&lt;h2 id="video_game-スライディングパズル"&gt;&amp;#x1f3ae; スライディングパズル&lt;/h2&gt;
 &lt;p&gt;いわゆる箱入り娘パズルです。
@@ -38,11 +44,14 @@
 &lt;ul&gt;
 &lt;li&gt;移動：スワイプ or タップ&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div style="text-align:center;"&gt;
+&lt;div style="max-width:720px; margin:auto; overflow:hidden;"&gt;
+ &lt;div style="position:relative; width:100%; aspect-ratio:1/1; overflow:hidden;"&gt;
  &lt;iframe
  src="https://takano536.github.io/klocki/index.html"
- style="width:720px; height:880px; border:0; display:block; margin:auto;"
+ scrolling="no"
+ style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; overflow:hidden;"
  &gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 &lt;/div&gt;</description><content:encoded><![CDATA[<h2 id="video_game-スライディングパズル">&#x1f3ae; スライディングパズル</h2>
 <p>いわゆる箱入り娘パズルです。
 2x2 のピースを中央下に移動させられたらクリアです。</p>
@@ -50,10 +59,13 @@
 <ul>
 <li>移動：スワイプ or タップ</li>
 </ul>
-<div style="text-align:center;">
-  <iframe
-    src="/klocki/index.html"
-    style="width:720px; height:880px; border:0; display:block; margin:auto;"
-  ></iframe>
+<div style="max-width:720px; margin:auto; overflow:hidden;">
+  <div style="position:relative; width:100%; aspect-ratio:1/1; overflow:hidden;">
+    <iframe
+      src="/klocki/index.html"
+      scrolling="no"
+      style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; overflow:hidden;"
+    ></iframe>
+  </div>
 </div>
 ]]></content:encoded></item></channel></rss>
