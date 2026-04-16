@@ -1,5 +1,5 @@
 ---
-title: "Klocki"
+title: "klotski"
 menu: "main"
 weight: 2
 type: "page"
@@ -12,6 +12,7 @@ type: "page"
 
 ### 操作方法
 
-* 移動：スワイプ or タップ
+* 移動: スワイプ or タップ
+* 答え: ある程度待った後に壁をタップ
 
-{{< klocki "klocki" >}}
+{{< klotski "klotski" >}}
