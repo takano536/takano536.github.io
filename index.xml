@@ -37,17 +37,18 @@
     ></iframe>
   </div>
 </div>
-]]></content:encoded></item><item><title>Klocki</title><link>https://takano536.github.io/games/klocki/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>takanori@example.com (Takanori)</author><guid>https://takano536.github.io/games/klocki/</guid><description>&lt;h2 id="video_game-スライディングパズル"&gt;&amp;#x1f3ae; スライディングパズル&lt;/h2&gt;
+]]></content:encoded></item><item><title>klotski</title><link>https://takano536.github.io/games/klotski/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>takanori@example.com (Takanori)</author><guid>https://takano536.github.io/games/klotski/</guid><description>&lt;h2 id="video_game-スライディングパズル"&gt;&amp;#x1f3ae; スライディングパズル&lt;/h2&gt;
 &lt;p&gt;いわゆる箱入り娘パズルです。
 2x2 のピースを中央下に移動させられたらクリアです。&lt;/p&gt;
 &lt;h3 id="操作方法"&gt;操作方法&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;移動：スワイプ or タップ&lt;/li&gt;
+&lt;li&gt;移動: スワイプ or タップ&lt;/li&gt;
+&lt;li&gt;答え: ある程度待った後に壁をタップ&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div style="max-width:720px; margin:auto; overflow:hidden;"&gt;
  &lt;div style="position:relative; width:100%; aspect-ratio:1/1; overflow:hidden;"&gt;
  &lt;iframe
- src="https://takano536.github.io/klocki/index.html"
+ src="https://takano536.github.io/klotski/index.html"
  scrolling="no"
  style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; overflow:hidden;"
  &gt;&lt;/iframe&gt;
@@ -57,12 +58,13 @@
 2x2 のピースを中央下に移動させられたらクリアです。</p>
 <h3 id="操作方法">操作方法</h3>
 <ul>
-<li>移動：スワイプ or タップ</li>
+<li>移動: スワイプ or タップ</li>
+<li>答え: ある程度待った後に壁をタップ</li>
 </ul>
 <div style="max-width:720px; margin:auto; overflow:hidden;">
   <div style="position:relative; width:100%; aspect-ratio:1/1; overflow:hidden;">
     <iframe
-      src="/klocki/index.html"
+      src="/klotski/index.html"
       scrolling="no"
       style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; overflow:hidden;"
     ></iframe>
